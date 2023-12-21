@@ -33,7 +33,7 @@ Sxy=0
 Sx2=0
 Sy2=0
 for i in range(0,N):
-    Sx=Sx+x[i]
+    Sx=Sx+x[i]  
     Sy=Sy+y[i]
     Sxy=Sxy+x[i]*y[i]
     Sx2=Sx2+x[i]**2
